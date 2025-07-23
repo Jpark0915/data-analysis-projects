@@ -1,1 +1,1 @@
-# kaggle-data-analysis
+# data-analysis-projects
